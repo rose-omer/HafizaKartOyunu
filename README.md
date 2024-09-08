@@ -14,3 +14,9 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş bir **Hafıza Ka
 - HTML
 - CSS
 - JavaScript
+
+## Ekran Kaydı
+
+
+https://github.com/user-attachments/assets/44b464d4-86bd-42be-950d-6c7ac4fad2f3
+
